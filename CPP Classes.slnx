@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Assignment/Assignment.vcxproj" Id="6c7d942e-57e0-4200-b72f-ac91ce648595" />
+  <Project Path="CPP Classes/CPP Classes.vcxproj" Id="f13d671c-ceb9-480b-8932-6ceb9bb17551" />
+</Solution>
